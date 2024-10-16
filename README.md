@@ -10,7 +10,7 @@
 
 ## Map (задача со звёздочкой)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/fwoibdq5aq3eet3x?svg=true)](https://ci.appveyor.com/project/BudTon/containers-map-settings)
 
 **Важно**: данная задача не является обязательной 
 
